@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using the `useNavigation` hook in React Navigation v6 with TypeScript. The error, "'navigation' is undefined", arises when the hook is incorrectly implemented or the component's context is improperly configured.  This example provides a clear illustration of the problematic code and the corrected solution. 
