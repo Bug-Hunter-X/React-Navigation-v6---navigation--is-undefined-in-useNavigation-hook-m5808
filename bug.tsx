@@ -1,0 +1,1 @@
+This error occurs when using the `useNavigation` hook in React Navigation v6 with TypeScript.  The error message is usually something like `'navigation' is undefined`. This often happens when the hook is used outside of a screen component or the component isn't correctly wrapped with the `NavigationContainer`.
